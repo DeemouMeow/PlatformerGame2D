@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7a734b4962312f458e1077449cd0e95, type: 3}
+  m_Name: Character Config
+  m_EditorClassIdentifier: 
+  _maxSpeed: 500
+  _maxFallSpeed: 70
+  _velocityLerpFactor: 15
+  _jumpStrength: 25
+  _jumpHeight: 2
+  _fallGravityMiltiplier: 10
+  _airGravityMiltiplier: 0.2
+  _airTime: 0.15
+  _afterJumpGroundCheckDelay: 0.1
+  _afterJumpGravityApplyDelay: 0

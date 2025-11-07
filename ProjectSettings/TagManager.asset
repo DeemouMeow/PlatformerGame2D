@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Character
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3490854033
+    locked: 0
+  - name: Ground
+    uniqueID: 3038070763
+    locked: 0
+  - name: Chest
+    uniqueID: 4268004997
+    locked: 0
+  - name: Character
+    uniqueID: 770747699
+    locked: 0
+  - name: Secret Obstacle
+    uniqueID: 124569833
+    locked: 0
+  - name: Secret
+    uniqueID: 3879563665
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
