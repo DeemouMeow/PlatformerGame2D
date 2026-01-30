@@ -1,33 +1,62 @@
-#🕹️ Minimalist 2D Platformer
-A fast-paced, minimalist 2D platformer built with Unity. Navigate through dangerous levels, discover hidden secrets, and collect rewards while avoiding deadly traps.
+# 🎮 2D Platformer Game (Unity)
 
-#✨ Features
-Smooth Movement: Precise character control using WASD.
-Interactive Objects: Open chests using the E key to find coins.
-Dangerous Obstacles: Avoid spinning saws and environmental hazards—one hit and it's Game Over.
-Hidden Secrets: Find secret rooms tucked away in the level design.
-Full UI System:
-Dynamic Coin Counter.
-Main Menu, Pause Menu (Esc), and Game Over screens.
-Restart & Progress: Instantly restart after losing or advance to the next level by reaching the finish line.
+A minimalist **2D platformer** created with **Unity**.  
+The game features a single handcrafted level with obstacles, secrets, interactive objects, and a simple UI system.
 
-#🖼️ Gameplay Visuals
-(To display your own visuals, replace the placeholder links below with paths to files in your repository)
-Gameplay Action	Visual Preview
-Platforming & Hazards	
-Chest Interaction	
-Menu System	
+Explore the level, avoid deadly entities, discover **secret rooms**, collect coins from chests, and reach the finish point.
 
-#🛠️ Tech Stack
-Engine: Unity
-Language: C#
-Art Style: Minimalist 2D 
+---
 
-#🚀 Installation & Setup
-Clone the Repo:
-```bash
-git clone https://github.com
-```
+## 🕹️ Gameplay Overview
 
-Open in Unity: Launch Unity Hub and add the project folder.
-Play: Open the Scenes folder and start with MainMenu.
+- Move through the level using **WASD**
+- Avoid dangerous obstacles such as **rotating saws**
+- Interact with objects and explore hidden areas
+- Reach the **finish** to complete the level
+
+---
+
+## ✨ Features & Mechanics
+
+- 🚶 **Player movement (WASD)**
+- 🗝️ **Secret rooms**
+- ☠️ **Deadly entities**
+  - Collision with them results in a **game over**
+- 📦 **Interactive chests**
+  - Press **E** to open
+  - Chests drop **coins**
+- 💰 **Coin collection system**
+- 🖥️ **User Interface (UI)**:
+  - Current coin counter
+  - Main menu
+  - Pause menu
+  - Game over menu
+- ⏸️ **Pause mechanic**
+- 🔄 **Level restart**
+- 🏁 **Finish point**
+  - Allows transition to the next level
+
+---
+
+## 🎨 Visual Style
+
+- Minimalist **2D art style**
+- Clean and simple visuals
+- Gameplay-focused design
+- The game consists of **one level**
+
+---
+
+## 🛠️ Built With
+
+- **Unity**
+- **C#**
+- Unity 2D Physics System
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
